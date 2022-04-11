@@ -1,0 +1,26 @@
+.myHeader{
+height: 80vh;
+background-image: url('../../imgall/me.png');
+background-attachment: scroll;
+background-position: right center;
+background-repeat: no-repeat;
+background-size: contain;
+background-color: rgb(105, 105, 105);
+    display: flex;
+    justify-content: start;
+    align-items:center;
+    padding-left: 220px;
+}
+
+
+.HeaderImagePart{
+
+
+} */
+.allText{
+
+    height: 80vh;
+    color: white;
+    background-color: blue;
+
+}
