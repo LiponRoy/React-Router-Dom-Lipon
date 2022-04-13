@@ -10,7 +10,7 @@ const NavbarTwo = () => {
 	};
 	return (
 		<>
-			<div className='container fixed-top '>
+			<div className='container-fluid'>
 				<div className='liponNav'>
 					<div className='leftSide'>
 						<div className='logo'>
@@ -18,7 +18,7 @@ const NavbarTwo = () => {
 						</div>
 					</div>
 					<div className='middleSide'>
-						<h2>Bangladd</h2>
+						<h5>middle side</h5>
 					</div>
 					<div className='rightSide'>
 						<div className='toggleBut' onClick={() => setShowLink(!showLinks)}>
